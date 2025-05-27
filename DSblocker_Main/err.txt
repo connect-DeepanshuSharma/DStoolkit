@@ -1,0 +1,3 @@
+$HOME/Downloads
+$HOME/Documents
+$HOME/Pictures
