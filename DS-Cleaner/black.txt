@@ -1,3 +1,2 @@
 testt.txt
-abcd.txt
 defg.jpg
